@@ -1,8 +1,8 @@
 ﻿/**
- * Chandra Reddy
- * 200275643
- * Slot Machine - RAD
- * updated 2016-12-14
+ * Name: Chandra Reddy
+ * Student#: 200275643
+ * Assignment: Slot Machine - RAD
+ * Date updated: 2016-12-14
  */
 using COMP1004_F2016_SlotMachine.Properties;
 using System;
